@@ -1,15 +1,46 @@
-#  About Me:
-Things I know: Frontend Development (HTML, CSS, JS, React), Product Development, Machine Learning (Sentiment Analysis), Verilog & VLSI, DevOps, AWS, API Integration, Postman, Git<br><br><br>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h2>👨‍💻 About Me</h2>
+  <p>
+    I'm a tech enthusiast passionate about building scalable and intelligent systems.
+  </p>
+  <p>
+    <strong>Things I know:</strong> Frontend Development (HTML, CSS, JavaScript, React), Product Development, 
+    Machine Learning (Sentiment Analysis), Verilog & VLSI, DevOps, AWS, API Integration, Postman, Git.
+  </p>
 
+  <p>
+    📫 <strong>Email Me:</strong> 
+    <a href="mailto:nitin23359@iiitd.ac.in">✉️ nitin23359@iiitd.ac.in</a> — for collaboration, projects, or anything tech-related.
+  </p>
 
-Email Me 👉 ✉️ nitin23359@iiitd.ac.in For Collaboration/Project or Anything Else. 
+  <p>
+    🚀 <strong>Currently working on:</strong> 
+    <a href="https://github.com/nitinyadav26/AlgoPilot.git" target="_blank">AlgoPilot</a> — an AI-powered tool for competitive programmers.
+  </p>
+  
+  <p>
+    📚 <strong>Currently learning:</strong> Advanced ML, Chip Design, and Scalable Systems.
+  </p>
 
- I’m currently working on: Enter your project info here
- I’m currently learning: Enter your tech here
- I’m looking to collaborate on: Enter your project name and info
- I’m looking for help with: Your project here
- Ask me about: Collaboration, Tech Support
- How to reach me: Enter your email here
+  <p>
+    💬 <strong>Ask me about:</strong>
+    <ul>
+      <li>Collaborations</li>
+      <li>Full-stack Projects</li>
+      <li>VLSI Design</li>
+      <li>ML Integration</li>
+      <li>DevOps & Deployment Pipelines</li>
+    </ul>
+  </p>
+
+  <p>
+    🔗 <strong>How to reach me:</strong><br>
+    Email: <a href="mailto:nitin23359@iiitd.ac.in">nitin23359@iiitd.ac.in</a><br>
+    LinkedIn: <a href="https://www.linkedin.com/in/nitinyadav26">linkedin.com/in/your-username</a><br>
+    GitHub: <a href="https://github.com/nitinyadav26">github.com/nitinyadav26</a>
+  </p>
+</div>
+
 
 
 
