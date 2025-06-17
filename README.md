@@ -15,12 +15,10 @@
 
   <p>
     🚀 <strong>Currently working on:</strong> 
-    <a href="https://github.com/nitinyadav26/AlgoPilot.git" target="_blank">AlgoPilot</a> — an AI-powered tool for competitive programmers.
+    <a href="https://github.com/nitinyadav26/AlgoPilot.git" target="_blank">AlgoPilot</a> — an AI-powered online judge and compiler for competitive programmers.
   </p>
   
-  <p>
-    📚 <strong>Currently learning:</strong> Advanced ML, Chip Design, and Scalable Systems.
-  </p>
+
 
   <p>
     💬 <strong>Ask me about:</strong>
